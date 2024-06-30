@@ -1,0 +1,5 @@
+Zadanie polega na wygenerowaniu aplikacji z interfejsem graficznym w JavaFX.
+
+Celem jest wizualizacja, w której po kliknięciu Start pasek wypełnia się w 10 sekund. Po wypełnieniu operację można przeprowadzić ponownie po kliknięciu przycisku Restart.
+Można zobaczyć w poniższym filmie.
+https://youtu.be/4E_eB270y4A?si=jBRcPrC_an6jKJrd

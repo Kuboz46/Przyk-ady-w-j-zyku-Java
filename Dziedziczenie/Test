@@ -1,0 +1,18 @@
+package zadanie_dziedziczenie;
+
+public class Test {
+    public static void main(String[] args)
+    {
+        System.out.println("Pracownik_1 przedstawia się.");
+        Pracownik pracownik_1 = new Pracownik("Jan", "Kowalski", "programista", "XYZ");
+
+        pracownik_1.przedstawSie();
+
+        System.out.println();
+
+        System.out.println("Pracownik_2 przedstawia się.");
+        Pracownik pracownik_2 = new Pracownik("Jakub", "Zbrzezny", "Młodszy specjalista ds. kalkulacji efektywnej stopy procentowej", "mBank");
+
+        pracownik_2.przedstawSie();
+    }
+}
